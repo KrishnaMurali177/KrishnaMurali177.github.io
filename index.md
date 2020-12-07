@@ -13,7 +13,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Krishna Murali
 ## Portfolio
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+An enthusiastic Data Scientist and certified AWS Solutions Architect experienced in Python, SQL, Spark, Tableau and major components of AWS with a passion for numbers, data wrangling to derive proper business insights and delivering solutions to optimize processes.
 
 ## Header 2
 
