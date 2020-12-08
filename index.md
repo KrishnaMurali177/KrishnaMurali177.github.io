@@ -15,28 +15,6 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 An enthusiastic Data Scientist and certified AWS Solutions Architect experienced in Python, SQL, Spark, Tableau and major components of AWS with a passion for numbers, data wrangling to derive proper business insights and delivering solutions to optimize processes.
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 #### Header 4
 
