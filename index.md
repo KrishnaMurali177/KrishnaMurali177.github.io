@@ -4,23 +4,18 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Resume](./Resume - KrishnaMurali.pdf)
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # Krishna Murali
 ## Portfolio
 
 An enthusiastic Data Scientist and certified AWS Solutions Architect experienced in Python, SQL, Spark, Tableau and major components of AWS with a passion for numbers, data wrangling to derive proper business insights and delivering solutions to optimize processes.
 
+### Education
+Masters in Integrated Manufacturing Systems Engineering with a minor in Statistics. You can find my [courses here](./another-page.html)
 
 #### Explore more
 
 *   [Resume](./Resume - KrishnaMurali.pdf)
 *   [Projects](./another-page.html)
-*   This is an unordered list following a header.
 
 ##### Header 5
 
