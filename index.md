@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Resume](./Resume - KrishnaMurali.pdf)
+[Resume] (./Resume - KrishnaMurali.pdf)
 
 There should be whitespace between paragraphs.
 
