@@ -266,7 +266,7 @@ hr {
 }
 
 /* Style the links inside the navigation bar */
-.topnav a {
+.topnav-centered a {
   color: $rajah;
   padding: 0 0 0 500px;
   margin: 0 0 20 0px;
@@ -278,13 +278,13 @@ hr {
 }
 
 /* Change the color of links on hover */
-.topnav a:hover {
+.topnav-centered a:hover {
   background-color: #ddd;
   color: black;
 }
 
 /* Add a color to the active/current link */
-.topnav a.active {
+.topnav-centered a.active {
   background-color: #4CAF50;
   color: white;
 }
