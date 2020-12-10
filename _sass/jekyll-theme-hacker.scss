@@ -263,7 +263,6 @@ hr {
     position: absolute;
     left: 0px;
     height: 40px;
-    background-color: #2C64B4;
     width: 100%;
     display: flex;
     justify-content: center;
@@ -271,11 +270,13 @@ hr {
 #topnav-centered ul {
     margin: 0;
     padding: 0;
+  list-style: none;
 }
 #topnav-centered ul li {
     margin: 0;
     padding: 0;
     float:left;
+  list-style: none;
 }
 #topnav-centered ul li a {
     text-decoration: none;
@@ -283,5 +284,5 @@ hr {
     display: block;
     color: #FFF;
     text-align: center;
-    list-style-image: none;
+    list-style: none;
 }
