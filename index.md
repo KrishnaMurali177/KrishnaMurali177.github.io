@@ -5,7 +5,7 @@ layout: default
 An enthusiastic Data Scientist and certified AWS Solutions Architect experienced in Python, SQL, Spark, Tableau and major components of AWS with a passion for numbers, data wrangling to derive proper business insights and delivering solutions to optimize processes.
 
 ## Education
-Masters in Integrated Manufacturing Systems Engineering with a minor in Statistics from North Carolina State University. My coursework is a mixture of Computer Science, Operations Research and Statistics. You can find my [courses here](./another-page.html)
+Masters in Integrated Manufacturing Systems Engineering with a minor in Statistics from North Carolina State University. My coursework is a mixture of Computer Science, Operations Research and Statistics. You can find my [courses here](./another-page.html).
 
 ## Work Experience
 *   Factory Automation Software Developer Intern -- John Deere (Aug'2019 - Present)
@@ -15,9 +15,9 @@ Masters in Integrated Manufacturing Systems Engineering with a minor in Statisti
 Learn more about my experience through my [resume](./Resume - KrishnaMurali.pdf).
 
 ## Projects
-Explore my projects in non-linear programming operations research methods, deep learning and conventional Machine Learning [here](./another-page.html)
+Explore my projects in non-linear programming operations research methods, deep learning and conventional Machine Learning [here](./projects.html).
 
 #### Explore more
 
 *   [Resume](./Resume - KrishnaMurali.pdf)
-*   [Projects](./another-page.html)
+*   [Projects](./projects.html)
