@@ -41,7 +41,7 @@ section {
   margin: 0 0 20px 0;
 }
 
-h1, h2, h3, h4, h5, h6, .topnav {
+h1, h2, h3, h4, h5, h6 {
   margin: 0 0 20px;
 }
 
@@ -270,7 +270,7 @@ hr {
   float: center;
   background-image: linear-gradient(to right, #6A9113 , #141517);
   padding: 0;
-  margin: 0 0 0 0px;
+  margin: 0 0 20 0px;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
