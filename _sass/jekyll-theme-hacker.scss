@@ -67,6 +67,16 @@ img {
   border-radius: 50%;
 }
 
+a {
+  color: $confier;
+}
+a:visited {
+  color: $confier;
+}
+a:hover, a:active, a:focus {
+  color:$rajah;
+}
+
 header h1 {
   font-size: 30px;
   line-height: 1.5;
