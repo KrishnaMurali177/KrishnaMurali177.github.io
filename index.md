@@ -2,20 +2,14 @@
 layout: default
 ---
 
-Graduate Student in Integrated Manufacturing Systems Engineering with a minor in Statistics from North Carolina State University. My coursework is a mixture of Computer Science, Operations Research and Statistics. You can find my [courses here](./another-page.html).
+Graduate Student in Integrated Manufacturing Systems Engineering with a minor in Statistics from North Carolina State University. My coursework is a mixture of Computer Science, Operations Research and Statistics. Check out the [awesome courses](./another-page.html) I took in my graduate school journey.
 
-## Work Experience
-I have over 3 years of experience in the Data domain across 3 companies.
-*   Factory Automation Software Developer Intern -- John Deere (Aug'2019 - Present)
-*   Associate Data Scientist -- LatentView Analytics (Dec'2017 - Jul'2019)
-*   Systems Engineer -- Infosys Ltd. (Mar'2017 - Dec'2017)
+## _Professional Experience_
+I have over 3 years of experience in the Analytics domain and have spent the past 2+ years working as an **Associate Data Scientist** for LatentView Analytics. I was responsible for provisioning data lake solution for one of America’s largest food logistics company, running supervised models on top of the data lake and building a recommender system. I am a certified AWS solutions architect skilled in Python, SQL, Spark, Tableau and all the major components of AWS. Currently, I am a Graduate Research Assistant collaborating with John Deere as a **Factory Automation Software Developer** working on C#, MSSQLServer and Tableau.
 
-Learn more about my experience through my [resume](./Resume - KrishnaMurali.pdf).
+Learn more about my experience through my [resume](./Resume - KrishnaMurali.pdf). 
 
-## Projects
+## _Projects_
 Explore my projects in non-linear programming operations research methods, deep learning and conventional Machine Learning [here](./projects.html).
 
-#### Explore more
-
-*   [Resume](./Resume - KrishnaMurali.pdf)
-*   [Projects](./projects.html)
+[Reach out to me and let's work together!](mailto:kmurali2@ncsu.edu)
