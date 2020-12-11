@@ -10,17 +10,17 @@ I have over 3 years of experience in the Analytics domain and have spent about 2
 Learn more about my experience through my [resume](./Resume - KrishnaMurali.pdf). 
 
 ## _Skills_
-- Programming Languages
+- _Programming Languages_
   - SQL, Python, R, C#
-- Statistics
+- _Statistics_
   - Regression, ANOVA, Multivariate and Longitudinal Statistics, Hypothesis Testing, Experimental Design
-- Machine Learning
+- _Machine Learning_
   - Clustering, Binary and Multiclass Classification
-- Cloud
+- _Cloud_
   - AWS
-- Big Data
+- _Big Data_
   - Hadoop, Spark, Hive
-- Deep Learning Frameworks
+- _Deep Learning Frameworks_
   - Tensorflow, Keras
 
 
